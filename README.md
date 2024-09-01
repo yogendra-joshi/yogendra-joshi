@@ -1,8 +1,8 @@
 🧑‍💻   About me
-🌳   Automation Tester | QA
+🌳   Software Engineer
 
 🧰   Languages and Tools									
-Selenium • TestNG • Postman API • Rest API • Eclipse • Functional Testing • Test Automation • Maven • JIRA • Java • Manual Testing
+React Native • React JS • Java Script • Rest API • Postman API • Git • GitHub • JIRA • Swagger
 
 <!---
 yogii004/yogii004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
